@@ -1,0 +1,9 @@
+C:\Users\Yiğit\Desktop\wsvisualstudio\IntertechProject\IntertechProject\bin\Debug\IntertechProject.exe.config
+C:\Users\Yiğit\Desktop\wsvisualstudio\IntertechProject\IntertechProject\obj\Debug\IntertechProject.IntertechProject.resources
+C:\Users\Yiğit\Desktop\wsvisualstudio\IntertechProject\IntertechProject\obj\Debug\IntertechProject.Properties.Resources.resources
+C:\Users\Yiğit\Desktop\wsvisualstudio\IntertechProject\IntertechProject\obj\Debug\IntertechProject.csproj.GenerateResource.Cache
+C:\Users\Yiğit\Desktop\wsvisualstudio\IntertechProject\IntertechProject\bin\Debug\IntertechProject.exe
+C:\Users\Yiğit\Desktop\wsvisualstudio\IntertechProject\IntertechProject\bin\Debug\IntertechProject.pdb
+C:\Users\Yiğit\Desktop\wsvisualstudio\IntertechProject\IntertechProject\obj\Debug\IntertechProject.exe
+C:\Users\Yiğit\Desktop\wsvisualstudio\IntertechProject\IntertechProject\obj\Debug\IntertechProject.pdb
+C:\Users\Yiğit\Desktop\wsvisualstudio\IntertechProject\IntertechProject\obj\Debug\IntertechProject.csprojResolveAssemblyReference.cache
